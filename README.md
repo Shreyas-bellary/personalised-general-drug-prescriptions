@@ -1,7 +1,7 @@
 # personalised-general-drug-prescriptions
 Applying Data-Driven Insights and ML to Personalize General Drug Prescriptions &amp; Enhance Healthcare.
-Team Members : 
-Shreyas Bellary Mnajunath (50604230)
-Shishir Hebbar (50594522)
-Janhavi Gubbala(50604125)
-Ruthvik Vasantha Kumar (50592560)
+</br> </br> Team Members : </br> 
+Shreyas Bellary Mnajunath (50604230) </br> 
+Shishir Hebbar (50594522) </br> 
+Janhavi Gubbala(50604125) </br> 
+Ruthvik Vasantha Kumar (50592560) </br> 
