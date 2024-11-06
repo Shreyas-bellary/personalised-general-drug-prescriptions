@@ -9,8 +9,7 @@ Ruthvik Vasantha Kumar (50592560) </br>
 Questions listed: </br> 
 Shreyas Bellary Manjunath: - </br> 
 1) Is there a relationship between drug dosage, CSA classification, alcohol interaction, and user ratings and reviews?
-2) Is there a significant difference in the total number of reviews between drugs marketed under multiple brand names compared to those marketed under a single brand name? </br> 
-Shishir Hebbar: - </br> 
+2) Is there a significant difference in the total number of reviews between drugs marketed under multiple brand names compared to those marketed under a single brand name? </br> Shishir Hebbar: - </br> 
 1) Is there a significant correlation between the dosage of drugs given for pain and their effectiveness in treating the pain?
 2) How does the frequency of a drug's prescription relate to its perceived effectiveness (rating)? </br> 
 Jahnavi Gubbala: - </br> 
