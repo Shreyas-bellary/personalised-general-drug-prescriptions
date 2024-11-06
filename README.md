@@ -21,10 +21,15 @@ Ruthvik Vasantha Kumar: - </br>
 2)What is the correlation between drug activity levels (percentage of patients who experience effectiveness) and prescription status (Rx vs. OTC)? </br> 
 
 Location of Code and Analysis: </br> 
-Shreyas Bellary Manjunath: - shreyas_phase2.ipynb </br> 
-Shishir Hebbar: - shishir_phase2.ipynb/pdf </br> 
-Jahnavi Gubbala: - jahnavi_phase2.ipynb/pdf </br> 
-Ruthvik Vasantha Kumar: - ruthvik_phase2.ipynb/pdf </br> 
+Shreyas Bellary Manjunath: - /shreyas_phase2.ipynb </br> 
+Shishir Hebbar: - /shishir_phase2.ipynb </br> 
+Jahnavi Gubbala: - /jahnavi_phase2.ipynb </br> 
+Ruthvik Vasantha Kumar: - /ruthvik_phase2.ipynb </br> 
 
-The pdf's are present inside the project_pdf folder and the source files are present inside the main folder directly.
+The pdf's are present inside the pdf folder and the source files are present inside the main folder directly.
 
+Location of Code and Analysis (PDF format): </br> 
+Shreyas Bellary Manjunath: - /pdf/shreyas_phase2.pdf </br> 
+Shishir Hebbar: - /pdf/shishir_phase2.pdf </br> 
+Jahnavi Gubbala: - /pdf/jahnavi_phase2.pdf </br> 
+Ruthvik Vasantha Kumar: - /pdf/ruthvik_phase2.pdf </br> 
