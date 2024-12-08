@@ -28,6 +28,7 @@ Ruthvik Vasantha Kumar: - /ruthvik_phase2.ipynb </br>
 
 The pdf's are present inside the pdf folder and the source files are present inside the exp folder directly.
 A short explanation video is inside the root folder.
+The final report is under the root folder.
 
 ### Instructions to Build and Run the App from Source Code
 
