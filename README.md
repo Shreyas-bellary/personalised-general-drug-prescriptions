@@ -91,7 +91,7 @@ This project consists of two components:
 
 ---
 
-#### Running the Streamlit UI (`app1.py`)
+#### Running the Streamlit UI (`app.py`)
 1. **Start the Streamlit App**:
    - Run the app using:
      ```bash
