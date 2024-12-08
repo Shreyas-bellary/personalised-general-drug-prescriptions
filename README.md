@@ -26,13 +26,8 @@ Shishir Hebbar: - /shishir_phase2.ipynb </br>
 Jahnavi Gubbala: - /jahnavi_phase2.ipynb </br> 
 Ruthvik Vasantha Kumar: - /ruthvik_phase2.ipynb </br> 
 
-The pdf's are present inside the pdf folder and the source files are present inside the main folder directly.
-
-Location of Code and Analysis (PDF format): </br> 
-Shreyas Bellary Manjunath: - /pdf/shreyas_phase2.pdf </br> 
-Shishir Hebbar: - /pdf/shishir_phase2.pdf </br> 
-Jahnavi Gubbala: - /pdf/jahnavi_phase2.pdf </br> 
-Ruthvik Vasantha Kumar: - /pdf/ruthvik_phase2.pdf </br> 
+The pdf's are present inside the pdf folder and the source files are present inside the exp folder directly.
+A short explanation video is inside the root folder.
 
 ### Instructions to Build and Run the App from Source Code
 
